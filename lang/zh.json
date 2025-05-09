@@ -1,0 +1,18 @@
+{
+  "menu_home": "首頁",
+  "menu_shop": "商店",
+  "menu_member": "會員",
+  "menu_about": "關於",
+
+  "home_title": "歡迎來到 小漾樣 Cosplay",
+  "home_text": "這裡是我們的首頁內容。",
+
+  "shop_title": "商品一覽",
+  "shop_text": "這裡展示所有商品。",
+
+  "member_title": "會員專區",
+  "member_text": "請先登入以瀏覽會員專屬內容。",
+
+  "about_title": "關於我們",
+  "about_text": "小漾樣 是來自台灣的 Cosplayer。"
+}

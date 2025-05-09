@@ -1,0 +1,18 @@
+{
+  "menu_home": "Home",
+  "menu_shop": "Shop",
+  "menu_member": "Member",
+  "menu_about": "About",
+
+  "home_title": "Welcome to Twoyun Cosplay",
+  "home_text": "This is our homepage content.",
+
+  "shop_title": "Product List",
+  "shop_text": "Here we show all the products.",
+
+  "member_title": "Member Area",
+  "member_text": "Please log in to see member-only content.",
+
+  "about_title": "About Us",
+  "about_text": "Twoyun is a cosplayer from Taiwan."
+}
