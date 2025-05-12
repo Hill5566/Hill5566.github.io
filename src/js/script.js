@@ -33,7 +33,7 @@ function initCarousel() {
 }
 
 function initProduct(id) {
-  fetch('data/products.json')
+  fetch('src/data/products.json')
     .then(r => r.json())
     .then(list => {
       const p = list.find(item => item.id === id);
@@ -77,7 +77,7 @@ function initProduct(id) {
 function loadProducts() {
   const grid = document.getElementById('product-grid');
   if (!grid) return;
-  fetch('data/products.json')
+  fetch('src/data/products.json')
     .then(res => res.json())
     .then(products => {
       grid.innerHTML = '';
@@ -86,7 +86,6 @@ function loadProducts() {
         card.className = 'product-card';
         card.innerHTML = `
           <div class="product-image">
-            <!-- 改用 onclick，不開新分頁 -->
             <a href="javascript:void(0)"
                onclick="loadPage('product','${p.id}')">
               <img src="${p.img[0]}" alt="${p.title}">

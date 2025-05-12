@@ -2,9 +2,9 @@
     {
       "id": "1",
       "img": [
-        "images/product1.jpg",
-        "images/product2.jpg",
-        "images/product3.jpg"
+        "src/assets/images/product1.jpg",
+        "src/assets/images/product2.jpg",
+        "src/assets/images/product3.jpg"
       ],
       "title": "Digital【Poolside Relaxation】泳池小憩",
       "price": "NT$900",
@@ -18,9 +18,9 @@
     {
       "id": "2",
       "img": [
-        "images/product2.jpg",
-        "images/product2.jpg",
-        "images/product2.jpg"
+        "src/assets/images/product2.jpg",
+        "src/assets/images/product2.jpg",
+        "src/assets/images/product2.jpg"
       ],
       "title": "Digital【Sakura Story】櫻花物語",
       "price": "NT$850",
@@ -34,9 +34,9 @@
     {
       "id": "3",
       "img": [
-        "images/product3.jpg",
-        "images/product3.jpg",
-        "images/product3.jpg"
+        "src/assets/images/product3.jpg",
+        "src/assets/images/product3.jpg",
+        "src/assets/images/product3.jpg"
       ],
       "title": "Digital【Cyber Warrior】未來戰姬",
       "price": "NT$1000",
@@ -50,9 +50,9 @@
     {
       "id": "4",
       "img": [
-        "images/product4.jpg",
-        "images/product4.jpg",
-        "images/product4.jpg"
+        "src/assets/images/product4.jpg",
+        "src/assets/images/product4.jpg",
+        "src/assets/images/product4.jpg"
       ],
       "title": "Digital【Library Lover】圖書館戀人",
       "price": "NT$780",
@@ -66,9 +66,9 @@
     {
       "id": "5",
       "img": [
-        "images/product5.jpg",
-        "images/product5.jpg",
-        "images/product5.jpg"
+        "src/assets/images/product5.jpg",
+        "src/assets/images/product5.jpg",
+        "src/assets/images/product5.jpg"
       ],
       "title": "Digital【Black Cat Maid】黑貓女僕",
       "price": "NT$950",
@@ -82,9 +82,9 @@
     {
       "id": "6",
       "img": [
-        "images/product6.jpg",
-        "images/product6.jpg",
-        "images/product6.jpg"
+        "src/assets/images/product6.jpg",
+        "src/assets/images/product6.jpg",
+        "src/assets/images/product6.jpg"
       ],
       "title": "Digital【Sweet School Life】甜美校園",
       "price": "NT$800",
@@ -98,9 +98,9 @@
     {
       "id": "7",
       "img": [
-        "images/product7.jpg",
-        "images/product7.jpg",
-        "images/product7.jpg"
+        "src/assets/images/product7.jpg",
+        "src/assets/images/product7.jpg",
+        "src/assets/images/product7.jpg"
       ],
       "title": "Digital【Fox Shrine】狐耳神社",
       "price": "NT$890",
@@ -114,9 +114,9 @@
     {
       "id": "8",
       "img": [
-        "images/product8.jpg",
-        "images/product8.jpg",
-        "images/product8.jpg"
+        "src/assets/images/product8.jpg",
+        "src/assets/images/product8.jpg",
+        "src/assets/images/product8.jpg"
       ],
       "title": "Digital【Romantic Kimono】浪漫和服",
       "price": "NT$920",
@@ -130,9 +130,9 @@
     {
       "id": "9",
       "img": [
-        "images/product9.jpg",
-        "images/product9.jpg",
-        "images/product9.jpg"
+        "src/assets/images/product9.jpg",
+        "src/assets/images/product9.jpg",
+        "src/assets/images/product9.jpg"
       ],
       "title": "Digital【Tech Future】科技未來",
       "price": "NT$980",
@@ -146,9 +146,9 @@
     {
       "id": "10",
       "img": [
-        "images/product10.jpg",
-        "images/product10.jpg",
-        "images/product10.jpg"
+        "src/assets/images/product10.jpg",
+        "src/assets/images/product10.jpg",
+        "src/assets/images/product10.jpg"
       ],
       "title": "Digital【Dessert Time】甜點時光",
       "price": "NT$750",
