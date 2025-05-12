@@ -1,0 +1,163 @@
+[
+    {
+      "id": "1",
+      "img": [
+        "images/product1.jpg",
+        "images/product2.jpg",
+        "images/product3.jpg"
+      ],
+      "title": "Digital【Poolside Relaxation】泳池小憩",
+      "price": "NT$900",
+      "description": [
+        "Did summer sneak in a little early this year?",
+        "Set Detail: ◆29 pics HQ Digital photo",
+        "今年的夏天，是不是偷偷提早來了？",
+        "Set Detail: ◆29張高清電子檔"
+      ]
+    },
+    {
+      "id": "2",
+      "img": [
+        "images/product2.jpg",
+        "images/product2.jpg",
+        "images/product2.jpg"
+      ],
+      "title": "Digital【Sakura Story】櫻花物語",
+      "price": "NT$850",
+      "description": [
+        "A stroll under cherry blossoms in Kyoto.",
+        "Set Detail: ◆25 pics HQ Digital photo",
+        "漫步在京都櫻花樹下的浪漫。",
+        "Set Detail: ◆25張高清電子檔"
+      ]
+    },
+    {
+      "id": "3",
+      "img": [
+        "images/product3.jpg",
+        "images/product3.jpg",
+        "images/product3.jpg"
+      ],
+      "title": "Digital【Cyber Warrior】未來戰姬",
+      "price": "NT$1000",
+      "description": [
+        "Embrace the neon lights of tomorrow.",
+        "Set Detail: ◆32 pics HQ Digital photo",
+        "擁抱未來的霓虹燈光。",
+        "Set Detail: ◆32張高清電子檔"
+      ]
+    },
+    {
+      "id": "4",
+      "img": [
+        "images/product4.jpg",
+        "images/product4.jpg",
+        "images/product4.jpg"
+      ],
+      "title": "Digital【Library Lover】圖書館戀人",
+      "price": "NT$780",
+      "description": [
+        "Lost among stacks of ancient tomes.",
+        "Set Detail: ◆20 pics HQ Digital photo",
+        "迷失在古老的書架之間。",
+        "Set Detail: ◆20張高清電子檔"
+      ]
+    },
+    {
+      "id": "5",
+      "img": [
+        "images/product5.jpg",
+        "images/product5.jpg",
+        "images/product5.jpg"
+      ],
+      "title": "Digital【Black Cat Maid】黑貓女僕",
+      "price": "NT$950",
+      "description": [
+        "A purr-fect day in maid uniform.",
+        "Set Detail: ◆28 pics HQ Digital photo",
+        "貓咪女僕的一天。",
+        "Set Detail: ◆28張高清電子檔"
+      ]
+    },
+    {
+      "id": "6",
+      "img": [
+        "images/product6.jpg",
+        "images/product6.jpg",
+        "images/product6.jpg"
+      ],
+      "title": "Digital【Sweet School Life】甜美校園",
+      "price": "NT$800",
+      "description": [
+        "Memories of youthful days in school.",
+        "Set Detail: ◆24 pics HQ Digital photo",
+        "校園裡的青春回憶。",
+        "Set Detail: ◆24張高清電子檔"
+      ]
+    },
+    {
+      "id": "7",
+      "img": [
+        "images/product7.jpg",
+        "images/product7.jpg",
+        "images/product7.jpg"
+      ],
+      "title": "Digital【Fox Shrine】狐耳神社",
+      "price": "NT$890",
+      "description": [
+        "Mystical spirits at the ancient shrine.",
+        "Set Detail: ◆26 pics HQ Digital photo",
+        "神秘的狐狸靈魂。",
+        "Set Detail: ◆26張高清電子檔"
+      ]
+    },
+    {
+      "id": "8",
+      "img": [
+        "images/product8.jpg",
+        "images/product8.jpg",
+        "images/product8.jpg"
+      ],
+      "title": "Digital【Romantic Kimono】浪漫和服",
+      "price": "NT$920",
+      "description": [
+        "Elegance in traditional attire.",
+        "Set Detail: ◆30 pics HQ Digital photo",
+        "傳統服飾的優雅。",
+        "Set Detail: ◆30張高清電子檔"
+      ]
+    },
+    {
+      "id": "9",
+      "img": [
+        "images/product9.jpg",
+        "images/product9.jpg",
+        "images/product9.jpg"
+      ],
+      "title": "Digital【Tech Future】科技未來",
+      "price": "NT$980",
+      "description": [
+        "A glimpse into tomorrow's innovations.",
+        "Set Detail: ◆27 pics HQ Digital photo",
+        "窺見未來的創新。",
+        "Set Detail: ◆27張高清電子檔"
+      ]
+    },
+    {
+      "id": "10",
+      "img": [
+        "images/product10.jpg",
+        "images/product10.jpg",
+        "images/product10.jpg"
+      ],
+      "title": "Digital【Dessert Time】甜點時光",
+      "price": "NT$750",
+      "description": [
+        "Indulge in sweet treats and smiles.",
+        "Set Detail: ◆22 pics HQ Digital photo",
+        "甜點與微笑的時光。",
+        "Set Detail: ◆22張高清電子檔"
+      ]
+    }
+  ]
+  

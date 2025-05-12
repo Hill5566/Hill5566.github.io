@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Twoyun Cosplay</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+
+      <!-- 網站標題 / Logo -->
+      <div class="site-title">Twoyun Cosplay</div>
+
+      <a href="#" onclick="loadPage('home')" data-i18n="menu_home">首頁</a>
+      <a href="#" onclick="loadPage('shop')" data-i18n="menu_shop">商店</a>
+      <a href="#" onclick="loadPage('member')" data-i18n="menu_member">會員</a>
+      <a href="#" onclick="loadPage('about')" data-i18n="menu_about">關於</a>
+      <a href="#" onclick="loadPage('patreon')">Patreon</a>
+
+      <ul class="social-menu">
+        <li><a href="https://instagram.com/yourid" target="_blank">Instagram</a></li>
+        <li><a href="https://twitter.com/yourid" target="_blank">Twitter</a></li>
+      </ul>
+      
+    </nav>
+    <div class="lang-switch">
+      <label for="lang">🌐</label>
+      <select id="lang" onchange="changeLang(this.value)">
+        <option value="zh">繁體中文</option>
+        <option value="en">English</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    <div id="content">載入中...</div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
