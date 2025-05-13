@@ -69,6 +69,28 @@ function initProduct(id) {
       const next = list[(idx + 1) % list.length];
       document.getElementById('prevLink').onclick = () => loadPage('product', prev.id);
       document.getElementById('nextLink').onclick = () => loadPage('product', next.id);
+
+      // 綠界金流：綁定購買按鈕
+      document.getElementById('buyBtn').onclick = () => {
+        console.log("找到商品：");
+        fetch('https://script.google.com/macros/s/AKfycbwNUChHxPaoQoaPkfNDxjw_LF0fXY6D-48PECgjz5f9_h6yQUvgdUF-_EvdX-cTcCj0og/exec', {
+          method: 'POST',
+          body: JSON.stringify({
+            amount: parseInt(p.price)
+          }),
+          headers: { 'Content-Type': 'application/json' }
+        })
+        .then(res => res.text())
+        .then(html => {
+          const w = window.open();      // 開新視窗顯示綠界頁面
+          w.document.write(html);
+          w.document.close();
+        })
+        .catch(err => {
+          alert('建立訂單失敗');
+          console.error(err);
+        });
+      };
     })
     .catch(console.error);
 }
