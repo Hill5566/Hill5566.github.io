@@ -77,7 +77,7 @@ function initProduct(id) {
           mode: 'no-cors'}, {
           method: 'POST',
           body: JSON.stringify({
-            amount: parseInt(p.price)
+            amount: 5566
           }),
           headers: { 'Content-Type': 'application/json' }
         })
