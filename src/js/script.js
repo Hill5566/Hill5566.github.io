@@ -73,7 +73,8 @@ function initProduct(id) {
       // 綠界金流：綁定購買按鈕
       document.getElementById('buyBtn').onclick = () => {
         console.log("找到商品：");
-        fetch('https://script.google.com/macros/s/AKfycbwNUChHxPaoQoaPkfNDxjw_LF0fXY6D-48PECgjz5f9_h6yQUvgdUF-_EvdX-cTcCj0og/exec', {
+        fetch('https://script.google.com/macros/s/AKfycbzYwPE3GFkunFAKikaEidxWMzYkGVGR7kUjUoUx585WghafuP86iL-eyVlWOS8DBBkdfg/exec', {
+          mode: 'no-cors'}, {
           method: 'POST',
           body: JSON.stringify({
             amount: parseInt(p.price)
