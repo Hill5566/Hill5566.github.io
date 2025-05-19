@@ -74,7 +74,6 @@ function initProduct(id) {
       document.getElementById('buyBtn').onclick = () => {
         console.log("找到商品：");
         fetch('https://script.google.com/macros/s/AKfycbxiw9s5G0yQ80t7aI7TUeH1-4w3KDehUH5WJ0jBX6F9J-taNRkgi8CmzkzgMl_hccPf8g/exec', {
-          mode: 'no-cors'}, {
           method: 'POST',
           body: JSON.stringify({
             amount: 5566
